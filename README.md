@@ -1,5 +1,4 @@
-[[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/anlaminem/my-Finquiz/HEAD?urlpath=%2Fdoc%2Ftree%2Ftest.ipynb.html)
-](https://mybinder.org/v2/gh/anlaminem/my-Finquiz/HEAD?urlpath=%2Fdoc%2Ftree%2Ftest.ipynb)
+https://mybinder.org/v2/gh/anlaminem/my-Finquiz/HEAD?urlpath=test.ipynb
 
 voila
 ipywidgets
